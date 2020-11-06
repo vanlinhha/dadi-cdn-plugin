@@ -1,0 +1,19 @@
+{
+    "server": {
+        "host": "127.0.0.1",
+        "port": 8001
+    },
+    "images": {
+        "directory": {
+            "enabled": true,
+            "path": "./images"
+        }
+
+    },
+    "assets": {
+        "directory": {
+            "enabled": true,
+            "path": "./pdf"
+        }
+    }
+}
